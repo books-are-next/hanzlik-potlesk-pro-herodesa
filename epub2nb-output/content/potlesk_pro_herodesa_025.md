@@ -1,6 +1,6 @@
 ---
 title: Útěk
-contentType: prose
+contentType: poetry
 ---
 
 <section>

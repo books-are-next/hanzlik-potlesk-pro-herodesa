@@ -1,6 +1,6 @@
 ---
 title: Slavnost první
-contentType: prose
+contentType: poetry
 ---
 
 <section>

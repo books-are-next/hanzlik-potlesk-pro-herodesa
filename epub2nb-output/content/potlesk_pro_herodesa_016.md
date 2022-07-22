@@ -1,6 +1,6 @@
 ---
 title: Jidáš (k učedníkům Ježíšovým)
-contentType: prose
+contentType: poetry
 ---
 
 <section>

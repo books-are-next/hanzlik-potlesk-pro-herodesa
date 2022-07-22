@@ -1,6 +1,6 @@
 ---
 title: Ranhojič
-contentType: prose
+contentType: poetry
 ---
 
 <section>

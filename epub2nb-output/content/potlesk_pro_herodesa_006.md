@@ -1,6 +1,6 @@
 ---
 title: Zelené zrcadlo
-contentType: prose
+contentType: poetry
 ---
 
 <section>

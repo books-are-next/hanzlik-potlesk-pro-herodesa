@@ -1,6 +1,6 @@
 ---
 title: Čas sváteční
-contentType: prose
+contentType: poetry
 ---
 
 <section>

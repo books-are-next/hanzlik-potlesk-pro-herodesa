@@ -1,6 +1,6 @@
 ---
 title: Elegie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
