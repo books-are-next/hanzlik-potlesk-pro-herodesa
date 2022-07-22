@@ -1,6 +1,6 @@
 ---
 title: Domek za tratí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

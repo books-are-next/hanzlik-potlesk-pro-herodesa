@@ -1,6 +1,6 @@
 ---
 title: Tartat III
-contentType: prose
+contentType: poetry
 ---
 
 <section>

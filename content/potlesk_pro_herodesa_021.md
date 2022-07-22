@@ -1,6 +1,6 @@
 ---
 title: xxx
-contentType: prose
+contentType: poetry
 ---
 
 <section>

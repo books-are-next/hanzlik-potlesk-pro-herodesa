@@ -1,6 +1,6 @@
 ---
 title: Slavnost druhá
-contentType: prose
+contentType: poetry
 ---
 
 <section>

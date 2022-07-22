@@ -1,6 +1,6 @@
 ---
 title: Pomsta
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Potlesk pro Herodesa
-contentType: prose
+contentType: poetry
 ---
 
 <section>

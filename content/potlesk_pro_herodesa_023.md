@@ -1,6 +1,6 @@
 ---
 title: Slavnost třetí (letní radostná)
-contentType: prose
+contentType: poetry
 ---
 
 <section>

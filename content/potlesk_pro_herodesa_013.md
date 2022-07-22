@@ -1,6 +1,6 @@
 ---
 title: Slova
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Postilión
-contentType: prose
+contentType: poetry
 ---
 
 <section>

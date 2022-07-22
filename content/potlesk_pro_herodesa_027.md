@@ -1,6 +1,6 @@
 ---
 title: Pomerančové vůně
-contentType: prose
+contentType: poetry
 ---
 
 <section>

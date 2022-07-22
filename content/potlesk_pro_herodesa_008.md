@@ -1,6 +1,6 @@
 ---
 title: Labutí jezero
-contentType: prose
+contentType: poetry
 ---
 
 <section>

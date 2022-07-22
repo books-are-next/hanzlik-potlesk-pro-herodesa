@@ -1,6 +1,6 @@
 ---
 title: Slavnost čtvrtá
-contentType: prose
+contentType: poetry
 ---
 
 <section>

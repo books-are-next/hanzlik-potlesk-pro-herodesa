@@ -1,6 +1,6 @@
 ---
 title: Noe
-contentType: prose
+contentType: poetry
 ---
 
 <section>

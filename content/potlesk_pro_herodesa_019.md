@@ -1,6 +1,6 @@
 ---
 title: Řeč mrtvých dětí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
