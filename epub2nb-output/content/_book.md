@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: Poezie
+  isbn: 978-80-274-2845-8
 readingOrder:
   - promo.html
   - potlesk_pro_herodesa_005.html

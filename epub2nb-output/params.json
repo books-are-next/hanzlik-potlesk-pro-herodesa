@@ -9,7 +9,8 @@
       "modified": "2019-05-13T00:00:00.000Z",
       "contentType": "poetry",
       "publisherShort": "mkp",
-      "edition": "Poezie"
+      "edition": "Poezie",
+      "isbn": "978-80-274-2845-8"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Slavnost první"
+            "title": "Slavnost první",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zelené zrcadlo"
+            "title": "Zelené zrcadlo",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Domek za tratí"
+            "title": "Domek za tratí",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Labutí jezero"
+            "title": "Labutí jezero",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Slavnost druhá"
+            "title": "Slavnost druhá",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pomsta"
+            "title": "Pomsta",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ranhojič"
+            "title": "Ranhojič",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Tartat III"
+            "title": "Tartat III",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Slova"
+            "title": "Slova",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_014.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Potlesk pro Herodesa"
+            "title": "Potlesk pro Herodesa",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_015.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "xxx"
+            "title": "xxx",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_016.md",
@@ -239,8 +240,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jidáš (k učedníkům Ježíšovým)"
+            "title": "Jidáš (k učedníkům Ježíšovým)",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_017.md",
@@ -252,8 +253,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "xxx"
+            "title": "xxx",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_018.md",
@@ -265,8 +266,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Noe"
+            "title": "Noe",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_019.md",
@@ -278,8 +279,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Řeč mrtvých dětí"
+            "title": "Řeč mrtvých dětí",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_020.md",
@@ -291,8 +292,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Čas sváteční"
+            "title": "Čas sváteční",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_021.md",
@@ -304,8 +305,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "xxx"
+            "title": "xxx",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_022.md",
@@ -317,8 +318,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Postilión"
+            "title": "Postilión",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_023.md",
@@ -330,8 +331,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Slavnost třetí (letní radostná)"
+            "title": "Slavnost třetí (letní radostná)",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_024.md",
@@ -343,8 +344,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Elegie"
+            "title": "Elegie",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_025.md",
@@ -356,8 +357,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Útěk"
+            "title": "Útěk",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_026.md",
@@ -369,8 +370,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Příběh"
+            "title": "Příběh",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_027.md",
@@ -382,8 +383,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pomerančové vůně"
+            "title": "Pomerančové vůně",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_028.md",
@@ -395,8 +396,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Slavnost čtvrtá"
+            "title": "Slavnost čtvrtá",
+            "children": []
           },
           {
             "filename": "potlesk_pro_herodesa_029.md",
@@ -664,6 +665,6 @@
       "user": "books-are-next",
       "repo": "hanzlik-potlesk-pro-herodesa"
     },
-    "generatedAt": 1665415791316
+    "generatedAt": 1666030881097
   }
 }
